@@ -1,78 +1,151 @@
-# feyisayo-dev
+<div align="center">
 
-Full-stack Developer specializing in building scalable products for emerging markets. Experienced in Flutter, Supabase, Paystack, and TailwindCSS, with a focus on social commerce, fintech, and collaboration tools.
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Feyisayo&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Emerging%20Markets&descAlignY=60&descSize=18&animation=fadeIn" />
 
----
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+for+Emerging+Markets+🌍;Flutter+%7C+Supabase+%7C+Paystack;Fintech+%7C+Social+Commerce+%7C+EdTech;Open+to+Collaboration+✨" alt="Typing SVG" />
+</a>
 
-## Featured Projects
+<br/>
 
-### Orija – Social Marketplace App
+<!-- Social badges row -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-feyisayodesigner-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/feyisayodesigner/)
+[![Email](https://img.shields.io/badge/Email-oluwafeyisayoadebayo-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:oluwafeyisayoadebayo@gmail.com)
+[![Behance](https://img.shields.io/badge/Portfolio-Behance-6D28D9?style=for-the-badge&logo=behance&logoColor=white&labelColor=0f0c29)](https://www.behance.net/feyisayoadebayo1)
 
-A social commerce platform that connects buyers and sellers through secure escrow payments, enabling trust-based transactions in peer-to-peer marketplaces.
-
-**Technology Stack:** Flutter, Supabase, Paystack
-
-**Key Features:**
-- Secure escrow wallet system (Orivault) for protected transactions
-- Real-time in-app messaging and user review system
-- Custom storefront builder with marketplace discovery
-
----
-
-### Worknest – Remote Team Collaboration
-
-A mobile-first collaboration platform designed for freelancers and remote teams to streamline project management and secure payments.
-
-**Technology Stack:** Flutter, Supabase, Custom Escrow API
-
-**Key Features:**
-- Integrated chat, file sharing, and time tracking
-- Built-in escrow payment system for milestone-based work
-- Comprehensive project and team management tools
+</div>
 
 ---
 
-### Finance Tracker
+## ⚡ About Me
 
-Personal finance management application for tracking income, expenses, and financial goals with integrated wallet support.
-
-**Technology Stack:** Flutter, Supabase Authentication, Wallet Integration
-
-**Key Features:**
-- Multi-wallet support for diverse payment methods
-- Comprehensive transaction history with detailed analytics
-- Secure authentication and data encryption
-
----
-
-### Responsive Landing Page
-
-Modern, responsive landing page demonstrating frontend development best practices and attention to design detail.
-
-**Technology Stack:** React, TailwindCSS
-
-**Key Features:**
-- Pixel-perfect modern UI implementation
-- Mobile-first responsive design
-- Performance-optimized architecture
+```dart
+class Feyisayo extends Developer {
+  final String focus    = "Scalable products for emerging markets";
+  final List  stack     = ["Flutter", "Supabase", "Paystack", "TailwindCSS"];
+  final List  domains   = ["Social Commerce", "Fintech", "Collaboration Tools"];
+  final bool  openToWork = true; // Always 👋
+}
+```
 
 ---
 
-## Technical Skills
+## 🛠 Tech Stack
 
-**Frontend Development:** Flutter, React, TailwindCSS  
-**Backend & Database:** Supabase, PostgreSQL  
-**Payment Integration:** Paystack  
-**Development Tools:** Git, GitHub, Supabase Functions, REST APIs
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## Contact
+## 🚀 Featured Projects
 
-**LinkedIn:** [linkedin.com/in/feyisayodesigner](https://www.linkedin.com/in/feyisayodesigner/)  
-**Email:** oluwafeyisayoadebayo@gmail.com  
-**Portfolio:** [behance.net/feyisayoadebayo1](https://www.behance.net/feyisayoadebayo1)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍 Orija — Social Marketplace
+
+> *Where trust meets commerce*
+
+A social commerce platform connecting buyers & sellers through **secure escrow payments** — built for peer-to-peer trust in emerging markets.
+
+**Stack:** `Flutter` · `Supabase` · `Paystack`
+
+- 🔐 **Orivault** escrow wallet for protected transactions
+- 💬 Real-time in-app messaging + review system
+- 🏪 Custom storefront builder & marketplace discovery
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Worknest — Remote Collaboration
+
+> *Your team, anywhere*
+
+Mobile-first collaboration platform for freelancers & remote teams — think project management meets secure payments.
+
+**Stack:** `Flutter` · `Supabase` · `Custom Escrow API`
+
+- 📁 Chat, file sharing & time tracking — unified
+- 💰 Milestone-based escrow payment system
+- 📊 Comprehensive team & project management
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Finance Tracker
+
+> *Money clarity, finally*
+
+Personal finance management with multi-wallet support, analytics, and goal tracking — built with security-first architecture.
+
+**Stack:** `Flutter` · `Supabase Auth` · `Wallet Integration`
+
+- 👛 Multi-wallet support across payment methods
+- 📈 Transaction history & detailed analytics
+- 🔒 Secure auth & data encryption
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Responsive Landing Page
+
+> *Design that converts*
+
+Modern, responsive landing page showcasing pixel-perfect frontend craftsmanship and performance best practices.
+
+**Stack:** `React` · `TailwindCSS`
+
+- ✨ Pixel-perfect modern UI
+- 📱 Mobile-first responsive design
+- ⚡ Performance-optimized architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-Open to collaboration on projects involving fintech, social commerce, and tools for emerging markets.
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=feyisayo-dev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyisayo-dev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff&langs_count=6" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=feyisayo-dev&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
+
+</div>
+
+---
+
+## 🌍 Let's Build Together
+
+<div align="center">
+
+*I'm especially excited about projects in **fintech**, **social commerce**, and **tools built for emerging markets**.*
+
+*Got an idea? Let's talk.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feyisayodesigner/)
+[![Email](https://img.shields.io/badge/Send_an_Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwafeyisayoadebayo@gmail.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+</div>
