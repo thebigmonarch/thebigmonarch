@@ -1,118 +1,186 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Feyisayo&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Emerging%20Markets&descAlignY=60&descSize=18&animation=fadeIn" />
+<!-- Matrix-style animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:0a0a1a,100:000000&height=220&section=header&text=FEYISAYO.DEV&fontSize=68&fontColor=00ff88&fontAlignY=40&desc=Full-Stack%20Engineer%20%2F%2F%20Emerging%20Markets&descAlignY=62&descSize=16&descColor=00ccff&animation=fadeIn&stroke=00ff88&strokeWidth=1" />
 
-<!-- Typing animation -->
+<!-- Animated terminal-style typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+for+Emerging+Markets+🌍;Flutter+%7C+Supabase+%7C+Paystack;Fintech+%7C+Social+Commerce+%7C+EdTech;Open+to+Collaboration+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=600&color=00FF88&center=true&vCenter=true&width=650&lines=→+flutter+run+--release+orija.apk;→+supabase+db+push+%26%26+functions+deploy;→+git+commit+-m+'feat%3A+escrow+payment+flow';→+paystack+transaction+verify+--live;→+building+for+1.4B+people+🌍" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social badges row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-feyisayodesigner-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/feyisayodesigner/)
-[![Email](https://img.shields.io/badge/Email-oluwafeyisayoadebayo-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:oluwafeyisayoadebayo@gmail.com)
-[![Behance](https://img.shields.io/badge/Portfolio-Behance-6D28D9?style=for-the-badge&logo=behance&logoColor=white&labelColor=0f0c29)](https://www.behance.net/feyisayoadebayo1)
+<!-- Glowing social badges -->
+[![LinkedIn](https://img.shields.io/badge/_%2F%2F_LinkedIn-feyisayodesigner-00FF88?style=for-the-badge&logo=linkedin&logoColor=00FF88&labelColor=0d0d0d)](https://www.linkedin.com/in/feyisayodesigner/)
+[![Email](https://img.shields.io/badge/_%2F%2F_Email-oluwafeyisayo-00CCFF?style=for-the-badge&logo=gmail&logoColor=00CCFF&labelColor=0d0d0d)](mailto:oluwafeyisayoadebayo@gmail.com)
+[![Behance](https://img.shields.io/badge/_%2F%2F_Portfolio-Behance-7C3AED?style=for-the-badge&logo=behance&logoColor=7C3AED&labelColor=0d0d0d)](https://www.behance.net/feyisayoadebayo1)
+
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=feyisayo-dev&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## ⚡ About Me
+<img align="right" width="380" src="https://github-readme-activity-graph.vercel.app/graph?username=feyisayo-dev&bg_color=0d0d0d&color=00ff88&line=00ccff&point=ffffff&area=true&hide_border=true&area_color=00ff8822" />
 
-```dart
-class Feyisayo extends Developer {
-  final String focus    = "Scalable products for emerging markets";
-  final List  stack     = ["Flutter", "Supabase", "Paystack", "TailwindCSS"];
-  final List  domains   = ["Social Commerce", "Fintech", "Collaboration Tools"];
-  final bool  openToWork = true; // Always 👋
-}
+## `$ whoami`
+
+```bash
+╔══════════════════════════════════════════╗
+║  feyisayo@dev:~$ cat about.json          ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  {                                       ║
+║    "role": "Full-Stack Engineer",        ║
+║    "focus": "Emerging Markets",          ║
+║    "stack": ["Flutter","Supabase",       ║
+║              "Paystack","TailwindCSS"],  ║
+║    "domains": ["Fintech","SocialCommerce"║
+║               ,"Collaboration Tools"],  ║
+║    "status": "open_to_collab → true"    ║
+║  }                                       ║
+║                                          ║
+╚══════════════════════════════════════════╝
 ```
+
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+## `$ ls ./tech-stack`
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=stripe&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- Animated skill icons -->
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,supabase,postgres,figma,git,github,vscode&theme=dark&perline=5" />
+
+<br/><br/>
+
+<!-- Proficiency bars as badges -->
+![Flutter](https://img.shields.io/badge/Flutter-●●●●●_Expert-00FF88?style=flat-square&logo=flutter&logoColor=white&labelColor=0d0d0d)
+![Supabase](https://img.shields.io/badge/Supabase-●●●●●_Expert-00FF88?style=flat-square&logo=supabase&logoColor=white&labelColor=0d0d0d)
+![Paystack](https://img.shields.io/badge/Paystack-●●●●○_Advanced-00CCFF?style=flat-square&logo=stripe&logoColor=white&labelColor=0d0d0d)
+![React](https://img.shields.io/badge/React-●●●●○_Advanced-00CCFF?style=flat-square&logo=react&logoColor=white&labelColor=0d0d0d)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-●●●●○_Advanced-00CCFF?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d0d0d)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-●●●○○_Proficient-7C3AED?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d0d0d)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `$ cat ./projects/index`
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3>
 
-### 🛍 Orija — Social Marketplace
+```
+[01] ORIJA.apk
+▓▓▓▓▓▓▓▓▓▓ 100%
+STATUS: LIVE
+```
 
-> *Where trust meets commerce*
+</h3>
 
-A social commerce platform connecting buyers & sellers through **secure escrow payments** — built for peer-to-peer trust in emerging markets.
+**Social Marketplace · Escrow Commerce**
 
-**Stack:** `Flutter` · `Supabase` · `Paystack`
+```dart
+// Core architecture
+class Orija {
+  OrivaultWallet escrow;    // 🔐 Trust layer
+  RealtimeChat   messages;  // 💬 P2P comms
+  Storefront     builder;   // 🏪 Discovery
+}
+```
 
-- 🔐 **Orivault** escrow wallet for protected transactions
-- 💬 Real-time in-app messaging + review system
-- 🏪 Custom storefront builder & marketplace discovery
+`Flutter` `Supabase` `Paystack` `Dart`
+
+Secure escrow payments powering trust-based P2P commerce across emerging markets.
 
 </td>
 <td width="50%" valign="top">
+<h3>
 
-### 🧑‍💻 Worknest — Remote Collaboration
+```
+[02] WORKNEST.apk
+▓▓▓▓▓▓▓▓▓▓ 100%
+STATUS: LIVE
+```
 
-> *Your team, anywhere*
+</h3>
 
-Mobile-first collaboration platform for freelancers & remote teams — think project management meets secure payments.
+**Remote Collaboration · Milestone Payments**
 
-**Stack:** `Flutter` · `Supabase` · `Custom Escrow API`
+```dart
+// Core modules
+class Worknest {
+  EscrowAPI   payments;    // 💰 Secure
+  ChatEngine  comms;       // 📁 Unified
+  TimeTracker logging;     // ⏱  Precise
+}
+```
 
-- 📁 Chat, file sharing & time tracking — unified
-- 💰 Milestone-based escrow payment system
-- 📊 Comprehensive team & project management
+`Flutter` `Supabase` `Custom Escrow API`
+
+Mobile-first workspace for freelancers — project management + built-in payment protection.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3>
 
-### 💳 Finance Tracker
+```
+[03] FINTRACK.apk
+▓▓▓▓▓▓▓▓░░  80%
+STATUS: BETA
+```
 
-> *Money clarity, finally*
+</h3>
 
-Personal finance management with multi-wallet support, analytics, and goal tracking — built with security-first architecture.
+**Personal Finance · Multi-Wallet Analytics**
 
-**Stack:** `Flutter` · `Supabase Auth` · `Wallet Integration`
+```dart
+// Core features
+class FinanceTracker {
+  MultiWallet  wallets;    // 👛 All-in-one
+  Analytics    insights;  // 📊 Smart
+  AuthLayer    security;  // 🔒 AES-256
+}
+```
 
-- 👛 Multi-wallet support across payment methods
-- 📈 Transaction history & detailed analytics
-- 🔒 Secure auth & data encryption
+`Flutter` `Supabase Auth` `Wallet Integration`
+
+Unified finance tracking with encrypted multi-wallet support & goal analytics.
 
 </td>
 <td width="50%" valign="top">
+<h3>
 
-### 🎨 Responsive Landing Page
+```
+[04] LANDING.jsx
+▓▓▓▓▓▓▓▓▓▓ 100%
+STATUS: DEPLOYED
+```
 
-> *Design that converts*
+</h3>
 
-Modern, responsive landing page showcasing pixel-perfect frontend craftsmanship and performance best practices.
+**Frontend · Performance Engineering**
 
-**Stack:** `React` · `TailwindCSS`
+```jsx
+// Design principles
+const LandingPage = {
+  design:   "pixel-perfect",   // 🎨
+  approach: "mobile-first",    // 📱
+  perf:     "lighthouse 100",  // ⚡
+};
+```
 
-- ✨ Pixel-perfect modern UI
-- 📱 Mobile-first responsive design
-- ⚡ Performance-optimized architecture
+`React` `TailwindCSS` `Vercel`
+
+Production-grade, performance-optimized landing page built to convert.
 
 </td>
 </tr>
@@ -120,32 +188,57 @@ Modern, responsive landing page showcasing pixel-perfect frontend craftsmanship 
 
 ---
 
-## 📊 GitHub Stats
+## `$ git log --stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=feyisayo-dev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyisayo-dev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=feyisayo-dev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ccff&text_color=aaffcc&ring_color=00ff88&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyisayo-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=aaffcc&langs_count=6" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=feyisayo-dev&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=feyisayo-dev&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ccff&currStreakLabel=00ff88&sideLabels=aaffcc&dates=666666" />
+
+<br/>
+
+<!-- Trophy showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=feyisayo-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
 ---
 
-## 🌍 Let's Build Together
+## `$ ping collaborate`
 
 <div align="center">
 
-*I'm especially excited about projects in **fintech**, **social commerce**, and **tools built for emerging markets**.*
+```
+> Scanning for opportunities...
 
-*Got an idea? Let's talk.*
+  [✓] Fintech products         — READY
+  [✓] Social commerce tools    — READY
+  [✓] Emerging market infra    — READY
+  [✓] Mobile-first platforms   — READY
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feyisayodesigner/)
-[![Email](https://img.shields.io/badge/Send_an_Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwafeyisayoadebayo@gmail.com)
+> Connection available. Send packet?
+```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+[![Connect](https://img.shields.io/badge/▶_CONNECT_ON_LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF88&color=0d0d0d)](https://www.linkedin.com/in/feyisayodesigner/)
+[![Email](https://img.shields.io/badge/▶_SEND_AN_EMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00CCFF&color=0d0d0d)](mailto:oluwafeyisayoadebayo@gmail.com)
+
+<br/>
+
+<!-- Snake animation - requires GitHub Actions setup (see note below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feyisayo-dev/feyisayo-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feyisayo-dev/feyisayo-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/feyisayo-dev/feyisayo-dev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a1a0a,100:000000&height=120&section=footer&text=./feyisayo-dev&fontSize=24&fontColor=00ff88&animation=fadeIn&desc=Building+the+infrastructure+of+tomorrow.&descColor=00ccff&descSize=13" />
 
 </div>
